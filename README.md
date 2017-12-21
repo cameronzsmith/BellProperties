@@ -1,1 +1,2 @@
-# BellProperties
+# What is this repository?
+This is the source code for a website I developed for a local property management company. The page is fully responsive on mobile, tablet, laptops, and desktops. It was built using HTML, CSS, JavaScript, and the Bootstrap framework.
