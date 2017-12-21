@@ -1,0 +1,112 @@
+body {
+	background: url("../images/door-background.jpeg");
+	background-size: cover;
+	background-position: 30%;
+}
+.navbar {
+	padding: 30px;
+}
+
+.bgcolor {
+	background: #484f4f;
+}
+
+footer {
+	background: #343a40; /* dark theme: #343a40 */
+	color: #fff;
+	text-align: center;
+	padding: 30px;
+}
+
+.jumbotron {
+	margin: 0;
+}
+
+.carousel-item > img {
+	width: auto;
+	height: 709px;
+	max-height: 709px;
+}
+
+#pricing {
+	color: #fff;
+	background: #212529;
+}
+
+#contact {
+	color: #fff;
+	background: #212529; /* old: #343a40 */
+	padding: 30px;
+}
+
+.form-row {
+	margin: 20px;
+}
+
+#map {
+	height: 400px;
+	width: 100%;
+	background-color: #696969;
+	margin-top: 30px;
+}
+
+.separator {
+	border-color: #b2c2bf;
+	margin: 0px;
+}
+
+.table {
+	width: 100%;
+}
+
+.btn-custom {
+	width: 100%;
+	margin: 10px;
+	cursor: pointer;
+}
+
+/* AMENITIES */
+#amenities {
+	background: #343a40;
+	color: #fff;
+	padding: 10px;
+}
+
+#amenities h2 {
+	margin: .8em 0;
+}
+
+#amenities ul {
+	margin: 20px auto;
+	padding-left: 0;
+}
+
+#amenities ul li {
+	margin: 10px 50px;
+	list-style-position: inside;
+}
+
+.form-custom input { margin-bottom: 10px; }
+
+.light {
+	background: #e9ecef;
+	color: #000;
+}
+
+.dark {
+	background-color: #343a40;
+	color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+	 .container { width: 100%; }
+	  body { background:#000; }
+	  .btn-sm-margin {
+		margin-bottom: 10px;
+	}
+
+	#amenities ul li {
+		margin: 10px 0;
+		list-style-position: inside;
+	}
+}
