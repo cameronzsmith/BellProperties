@@ -1,0 +1,24 @@
+[33mcommit 911832d3ca985afbe6ac18c2ee986540440c4b5d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Cameron Smith <csmith158@butlercc.edu>
+Date:   Thu Dec 21 00:04:55 2017 -0600
+
+    Updated README
+
+[33mcommit ef47c0037aeb0666236e5d7636c79aa84e1beb1f[m
+Merge: 6450c7a 053ed87
+Author: Cameron Smith <csmith158@butlercc.edu>
+Date:   Thu Dec 21 00:01:37 2017 -0600
+
+    Merge branch 'master' of github.com:cameronzsmith/BellProperties
+
+[33mcommit 6450c7a01b99dae8d1fc8448bbc5fc97b0e53649[m
+Author: Cameron Smith <csmith158@butlercc.edu>
+Date:   Wed Dec 20 23:51:35 2017 -0600
+
+    initial commit
+
+[33mcommit 053ed879a12ba23e9552cf706e8bad2a424f8899[m
+Author: Cameron <csmith158@butlercc.edu>
+Date:   Wed Dec 20 23:42:13 2017 -0600
+
+    Initial commit
